@@ -1,5 +1,5 @@
 /**
- * struct dog - defines a dog.
+ * struct dog - defines a dog structure.
  * @name: this the name of the dog.
  * @age: this is the age of the dog.
  * @owner: this the owner of the dog.
