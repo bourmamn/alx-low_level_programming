@@ -13,16 +13,3 @@ void init_dog(struct dog *d, char *name, float age, char *owner)
 	d->age = age;
 	d->owner = owner;
 }
-/**
- * struct dog - defines a dog.
- * @name: this the name of the dog.
- * @age: this is the age the dog.
- * @owner: this the owner of the dog.
- * Description: the given structure defines a dog with some basic infromation
- */
-struct dog
-{
-	char *name;
-	float age;
-	char *owner;
-};
