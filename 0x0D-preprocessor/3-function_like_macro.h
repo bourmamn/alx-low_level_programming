@@ -1,3 +1,4 @@
 #ifndef ABS(x)
-#define ABS(x) (((x) < 0) ? -(x) : (x))
+#define STDLIB_H
+#define ABS(x) abs(x)
 #endif
